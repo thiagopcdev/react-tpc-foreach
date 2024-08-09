@@ -1,4 +1,4 @@
-export interface IEachProps<T> {
+export interface IForEachProps<T> {
   of: T[];
   render: (item: T, index?: number) => JSX.Element;
 }

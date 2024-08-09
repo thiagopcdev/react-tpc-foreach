@@ -1,1 +1,1 @@
-export { default as Each } from './lib/Each';
+export { default as ForEach } from './lib/ForEach';
