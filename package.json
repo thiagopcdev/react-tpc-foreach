@@ -16,6 +16,17 @@
     "publish:minor": "git add . && git commit -m \"publishing a minor\" && npm version minor && npm publish",
     "publish:major": "git add . && git commit -m \"publishing a major\" && npm version major && npm publish"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagopcdev/react-tpc-foreach.git"
+  },
+  "keywords": [
+    "react-foreach",
+    "foreach",
+    "React",
+    "TypeScript",
+    "frontend"
+  ],
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
