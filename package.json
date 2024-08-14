@@ -3,6 +3,7 @@
   "description": "React component for iterating over arrays and objects",
   "author": "Thiago Prado de Carvalho",
   "main": "dist/react-tpc-foreach.js",
+  "types": "dist/index.d.ts",
   "license": "MIT",
   "version": "0.1.10",
   "type": "module",
