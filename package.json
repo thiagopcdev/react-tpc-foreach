@@ -2,7 +2,7 @@
   "name": "react-tpc-foreach",
   "description": "React component for iterating over arrays and objects",
   "author": "Thiago Prado de Carvalho",
-  "main": "dist/assets/index-CdRMN_ZU.js",
+  "main": "index.ts",
   "license": "MIT",
   "version": "0.1.7",
   "type": "module",
