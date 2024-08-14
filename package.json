@@ -4,7 +4,7 @@
   "author": "Thiago Prado de Carvalho",
   "main": "dist/react-tpc-foreach.js",
   "license": "MIT",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "type": "module",
   "scripts": {
     "dev": "vite",
